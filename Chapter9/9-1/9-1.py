@@ -5,7 +5,7 @@ class Bird:
         if self.hungry:
             print('Aaaah......')
             self.hungry=False
-        else:
+        else: 
             print('No, Thank!')
 
 class SongBird(Bird):
